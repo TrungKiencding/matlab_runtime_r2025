@@ -1,3 +1,4 @@
 matlab_runtime_aa filter=lfs diff=lfs merge=lfs -text
 matlab_runtime_ab filter=lfs diff=lfs merge=lfs -text
 matlab_runtime_ac filter=lfs diff=lfs merge=lfs -text
+matlab_runtime_ad filter=lfs diff=lfs merge=lfs -text
